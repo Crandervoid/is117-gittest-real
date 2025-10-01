@@ -1,1 +1,1 @@
-cat displays the contents of a file to the terminal.
+cp copies files or folders, mv moves or renames them.
