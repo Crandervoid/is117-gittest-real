@@ -1,1 +1,1 @@
-Use touch filename to create an empty file.
+Use the command touch filename to create a new empty file.
